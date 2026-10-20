@@ -4,14 +4,21 @@ Ce dépôt regroupe mes travaux de conception, organisés en 3 sous-répertoires
 
 ```text
 Conception/
-├── UX/UI
-├── Graphique
-└── 3D
+├── UX-UI/
+├── Graphique/
+└── 3D/
 ```
 
 ---
 
-### Sous-répertoires :
-- **UX/UI :** Recherche utilisateur, ergonomie, wireframes et maquettes interactives.
-- **Graphique :** Conception visuelle, logos, affiches et chartes graphiques.
-- **3D :** Modélisations 3D, textures et rendus.
+### Projets & Sous-répertoires :
+
+#### UX/UI
+- **[CeGPA - Centre de Gestion du Patrimoine Muséal et des Arts](UX-UI/CeGPA/README.md) :** Plateforme web muséale, back-office d'administration et interface de visite virtuelle 360° / VR.
+- Maquettes interactives haute fidélité (Figma) et Design Systems.
+
+#### Graphique
+- Identités visuelles, logos, affiches et chartes graphiques.
+
+#### 3D
+- Modélisations d'objets, assets temps réel et scènes Blender.
